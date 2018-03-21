@@ -1,4 +1,6 @@
 # react-simple-di
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fggallon%2Freact-simple-di.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fggallon%2Freact-simple-di?ref=badge_shield)
+
 
 Simple dependancy injection solution for React.
 
@@ -112,3 +114,7 @@ const mapper = (context, actions) => ({
     actions: () => actions
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fggallon%2Freact-simple-di.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fggallon%2Freact-simple-di?ref=badge_large)
